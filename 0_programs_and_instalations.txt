@@ -1,0 +1,19 @@
+1_Cleaned_Data.sh
+NGS QC Toolkit: http://www.mybiosoftware.com/ngs-qc-toolkit-v2-3-3-toolkit-for-the-quality-control-qc-of-next-generation-sequencing-ngs-data.html
+
+2_bowtie2_map_to_areference.sh
+Bowtie2: http://bowtie-bio.sourceforge.net/bowtie2/index.shtml
+SAMtools: http://www.htslib.org/download/
+
+3_merge_vcf_covfilt_SNPcall.sh
+SAMtools: http://www.htslib.org/download/
+BCFtools: http://www.htslib.org/download/
+VCFtools: https://vcftools.github.io/downloads.html
+
+4_merge_vcf_covfilt.sh
+BCFtools: http://www.htslib.org/download/
+VCFtools: https://vcftools.github.io/downloads.html
+
+5_GSK_to_GT
+SAMtools: http://www.htslib.org/download/
+
